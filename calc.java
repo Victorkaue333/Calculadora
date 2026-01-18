@@ -7,7 +7,7 @@ class Main {
         int n1, n2;
         int escolha;
         int calculo;
-        System.out.println("========================================");
+        System.out.println("=========================================");
         System.out.println("Escolha o seu método de cálculo:");
         System.out.println("----------------------------------------");
         System.out.println("1 - Adicão");
