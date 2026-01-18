@@ -7,12 +7,14 @@ class Main {
         int n1, n2;
         int escolha;
         int calculo;
-
+        System.out.println("========================================");
         System.out.println("Escolha o seu método de cálculo:");
+        System.out.println("----------------------------------------");
         System.out.println("1 - Adicão");
         System.out.println("2 - Subtração");
         System.out.println("3 - Multiplicação");
         System.out.println("4 - Divisão");
+        System.out.println("========================================");
         System.out.println("Digite qual você quer escolher: ");
         escolha = ler.nextInt();
 
